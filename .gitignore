@@ -1,6 +1,7 @@
 .DS_Store
 
-
-HomeWork2/NNDL_HW2/TRAIN
-HomeWork2/NNDL_HW2/TUNE
+./HomeWork2/NNDL_HW2/TRAIN/*
+./HomeWork2/NNDL_HW2/TUNE/*
+HomeWork2/NNDL_HW2/TRAIN/*
+HomeWork2/NNDL_HW2/TUNE/*
 HomeWork2/NNDL_HW2/NN_HW2_Face_Emotion.rar
